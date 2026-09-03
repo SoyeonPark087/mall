@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "수박",
+    "imgurl": "images/fruit/fruit1.jpg",
+    "content": "달콤하고 시원한 당도선별 수박 6kg",
+    "price": 18000
+  },
+  {
+    "id": 2,
+    "title": "참외",
+    "imgurl": "images/fruit/fruit2.jpg",
+    "content": "아삭하고 달콤한 성주 참외 1.2kg",
+    "price": 12000
+  },
+  {
+    "id": 3,
+    "title": "사과",
+    "imgurl": "images/fruit/fruit3.jpg",
+    "content": "새콤달콤 붉은빛 꿀사과 5입",
+    "price": 9900
+  },
+  {
+    "id": 4,
+    "title": "망고",
+    "imgurl": "images/fruit/fruit4.jpg",
+    "content": "부드럽고 쫀득한 애플망고 2입",
+    "price": 15000
+  },
+  {
+    "id": 5,
+    "title": "바나나",
+    "imgurl": "images/fruit/fruit5.jpg",
+    "content": "영양 만점 든든한 고산지 바나나 1송이",
+    "price": 3980
+  },
+  {
+    "id": 6,
+    "title": "감귤",
+    "imgurl": "images/fruit/fruit6.jpg",
+    "content": "비타민 가득 톡톡 터지는 제주 고랭지 감귤 2kg",
+    "price": 8900
+  },
+  {
+    "id": 7,
+    "title": "토마토",
+    "imgurl": "images/fruit/fruit7.jpg",
+    "content": "탱글탱글 신선한 완숙 토마토 1kg",
+    "price": 6500
+  },
+  {
+    "id": 8,
+    "title": "샤인머스켓",
+    "imgurl": "images/fruit/fruit8.jpg",
+    "content": "망고향이 올라오는 고당도 샤인머스켓 1송이",
+    "price": 13500
+  }
+]

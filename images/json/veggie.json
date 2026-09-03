@@ -1,0 +1,115 @@
+[
+
+  {
+
+    "id": 1,
+
+    "title": "고추",
+
+    "imgurl": "images/veggie/veggie4.jpg",
+
+    "content": "혈당 조절 청양고추 300g",
+
+    "price": 2000
+
+  },
+
+  {
+
+    "id": 2,
+
+    "title": "당근",
+
+    "imgurl": "images/veggie/veggie1.jpg",
+
+    "content": "흙이 묻어 있어 싱싱한 당근 1kg",
+
+    "price": 1500
+
+  },
+
+  {
+
+    "id": 3,
+
+    "title": "옥수수",
+
+    "imgurl": "images/veggie/veggie2.jpg",
+
+    "content": "톡톡 터지는 달콤한 찰옥수수 3입",
+
+    "price": 1800
+
+  },
+
+  {
+
+    "id": 4,
+
+    "title": "감자",
+
+    "imgurl": "images/veggie/veggie3.jpg",
+
+    "content": "영양가득 땅속의 사과, 감자",
+
+    "price": 2000
+
+  },
+
+  {
+
+    "id": 5,
+
+    "title": "밤",
+
+    "imgurl": "images/veggie/veggie5.jpg",
+
+    "content": "고소하고 알이 굵은 깐밤 500g",
+
+    "price": 1500
+
+  },
+
+  {
+
+    "id": 6,
+
+    "title": "고구마",
+
+    "imgurl": "images/veggie/veggie6.jpg",
+
+    "content": "달콤한 꿀이 가득한 꿀고구마 1kg",
+
+    "price": 20000
+
+  },
+
+  {
+
+    "id": 7,
+
+    "title": "오이",
+
+    "imgurl": "images/veggie/veggie7.jpg",
+
+    "content": "아삭아삭 수분 가득 백오이 3개",
+
+    "price": 2000
+
+  },
+
+  {
+
+    "id": 8,
+
+    "title": "무",
+
+    "imgurl": "images/veggie/veggie8.jpg",
+
+    "content": "시원하고 단맛이 나는 제철 무 1개",
+
+    "price": 1000
+
+  }
+
+]
